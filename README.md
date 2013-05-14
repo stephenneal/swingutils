@@ -1,4 +1,4 @@
-swing-plus
+swingutils
 ==========
 
 Java Swing utilities.
